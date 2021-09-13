@@ -53,16 +53,9 @@ This Web Application developed using php,ajax,jquery.Custom Lay Architecture
 
 ### Authors and Contributors
 
-### 1. Prosen Ghosh
-* [Prosen Ghosh GitHub](https://github.com/Prosen-Ghosh)
-* [Prosen Ghosh Facebook](https://www.facebook.com/prosenghosh25)
+### 1. Jordan Toutsop
+* [Jordan Toutsop GitHub](https://github.com/ToutsopDongmoJordan21)
+* [Jordan Toutsop Facebook](https://www.facebook.com/jordantoutsop)
 
-### 2. Ahmed Habibullah Rifat (Namespaceahr)
-* [Namespaceahr GitHub](https://github.com/namespaceahr/)
-* [Namespace ahr Facebook](https://www.facebook.com/namespaceahr)
-
-### 3. Khurshedul Barid
-
-* [Khurshedul Barid Facebook](https://www.facebook.com/md.barid)
 
 # School-Management-System-With-PHP
